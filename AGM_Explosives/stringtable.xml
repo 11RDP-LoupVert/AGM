@@ -113,6 +113,7 @@
     <Key ID="STR_AGM_Explosives_MK16_displayName">
       <English>M152 RAMS</English>
       <German>M152 RAMS</German>
+      <French>M152 RAMS</French>
     </Key>
     <Key ID="STR_AGM_Explosives_DefusalKit_displayName">
       <English>Defusal Kit</English>
@@ -143,7 +144,7 @@
       <German>Löschen</German>
       <Spanish>Borrar</Spanish>
       <Polish>Usuń</Polish>
-      <French>Nettoyé</French>
+      <French>Dépolué</French>
       <Czech>Čistý</Czech>
     </Key>
     <Key ID="STR_AGM_Explosives_Phone_Dial">
@@ -301,6 +302,7 @@
     <Key ID="STR_AGM_Explosives_NoExplosivesAvailable">
       <English>No explosives on trigger.</English>
       <German>Keine Sprengladungen auf diesem Auslöser.</German>
+      <French>Pas d'explosif à mettre à feu.</French>
     </Key>
   </Package>
 </Project>
